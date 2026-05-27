@@ -3,6 +3,7 @@ Collection of projects I did during AP computer science principles
 
 
 Project Title: Dog Program
+
 Summary: This Python program works with dog-related data and demonstrates the use of variables, functions, or classes. It allows users to organize or interact with information about dogs in a structured way.
 Key Features: Uses object-oriented programming concepts and user interaction.
 
